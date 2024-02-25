@@ -270,7 +270,7 @@ const ToDo = () => {
       <div style={footerStyle}>
         <a href="https://github.com/ihimrao" style={linkStyle}>Github</a>
         <a href="https://ihimrao.github.io" style={linkStyle}>Portfolio</a>
-        <a href="https://github.com/ihimrao/FE-TODO-GOLANG" style={linkStyle}>Repo</a>
+        <a href="https://github.com/ihimrao/todo-go-micro-service/tree/main" style={linkStyle}>Repo</a>
       </div>
     </>
   );
